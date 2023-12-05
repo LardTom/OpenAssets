@@ -1,1 +1,1 @@
-# OpenBlenderAssets
+# OpenAssets
