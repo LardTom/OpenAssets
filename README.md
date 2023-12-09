@@ -1,2 +1,2 @@
 # OpenAssets
-Assets and Resources of the Fashion Frogs
+Assets and Resources of the Fashion Frogs.
